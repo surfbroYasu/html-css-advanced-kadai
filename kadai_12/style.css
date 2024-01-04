@@ -334,7 +334,7 @@ ul {
 /* ケースカード */
 .case-cards {
   width: 33%;
-  margin: 0 20px;
+  margin: 20px;
   background-color: #ffffff;
   min-height: 400px;
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2) ;
